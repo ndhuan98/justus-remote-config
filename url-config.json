@@ -1,12 +1,12 @@
 {
   "environment": "dev",
   "dev": {
-    "baseUrl": "https://just-us-dev.wesoftvn.vn/",
-    "socketUrl":"https://just-us-dev.wesoftvn.vn/"
+    "baseUrl": "http://just-us-dev.wesoftvn.vn/",
+    "socketUrl":"http://just-us-dev.wesoftvn.vn/"
   },
   "test": {
-    "baseUrl": "https://just-us-test.wesoftvn.vn/",
-    "socketUrl":"https://just-us-test.wesoftvn.vn/"
+    "baseUrl": "http://just-us-test.wesoftvn.vn/",
+    "socketUrl":"http://just-us-test.wesoftvn.vn/"
   },
   "prod": {
     "baseUrl": "https://api.example.com",
