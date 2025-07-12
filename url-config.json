@@ -2,11 +2,11 @@
   "environment": "dev",
   "dev": {
     "baseUrl": "http://just-us-dev.wesoftvn.vn/",
-    "socketUrl":"http://just-us-dev.wesoftvn.vn/"
+    "socketUrl":"http://14.225.36.134:3000/"
   },
   "test": {
     "baseUrl": "http://just-us-test.wesoftvn.vn/",
-    "socketUrl":"http://just-us-test.wesoftvn.vn/"
+    "socketUrl":"http://13.211.253.130:3000/"
   },
   "prod": {
     "baseUrl": "https://api.example.com",
