@@ -1,5 +1,5 @@
 {
-  "environment": "dev",
+  "environment": "test",
   "dev": {
     "baseUrl": "http://just-us-dev.wesoftvn.vn:3000/",
     "socketUrl":"http://just-us-dev.wesoftvn.vn:3000/"
